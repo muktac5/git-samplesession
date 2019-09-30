@@ -1,1 +1,3 @@
-hey dep
+@echo off
+@echo hi
+@echo "yo"
